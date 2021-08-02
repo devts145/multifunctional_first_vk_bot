@@ -1,0 +1,4 @@
+vk_api
+random
+vk_api.longpoll
+requests
